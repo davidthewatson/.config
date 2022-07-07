@@ -1,2 +1,5 @@
 # github cli
 gh/*
+
+# zsh completion cache
+zsh/*
